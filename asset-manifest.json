@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agency-context/static/css/main.479c4bee.chunk.css",
+    "main.js": "/agency-context/static/js/main.cfb3da8f.chunk.js",
+    "main.js.map": "/agency-context/static/js/main.cfb3da8f.chunk.js.map",
+    "runtime-main.js": "/agency-context/static/js/runtime-main.0ef50ca5.js",
+    "runtime-main.js.map": "/agency-context/static/js/runtime-main.0ef50ca5.js.map",
+    "static/js/2.789ced41.chunk.js": "/agency-context/static/js/2.789ced41.chunk.js",
+    "static/js/2.789ced41.chunk.js.map": "/agency-context/static/js/2.789ced41.chunk.js.map",
+    "static/js/3.1cab0bc6.chunk.js": "/agency-context/static/js/3.1cab0bc6.chunk.js",
+    "static/js/3.1cab0bc6.chunk.js.map": "/agency-context/static/js/3.1cab0bc6.chunk.js.map",
+    "index.html": "/agency-context/index.html",
+    "static/css/main.479c4bee.chunk.css.map": "/agency-context/static/css/main.479c4bee.chunk.css.map",
+    "static/js/2.789ced41.chunk.js.LICENSE.txt": "/agency-context/static/js/2.789ced41.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/agency-context/static/media/Gotham Thin.e707e453.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ef50ca5.js",
+    "static/js/2.789ced41.chunk.js",
+    "static/css/main.479c4bee.chunk.css",
+    "static/js/main.cfb3da8f.chunk.js"
+  ]
+}
