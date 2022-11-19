@@ -4,7 +4,7 @@ Website about some local Azerbaijani Agency
 - You can reach out to portfloio and process of the agency
 - Subscribe to the website
   
- ## Check out the [Demo](https://faridalz.github.io/agency-context/#/)
+ ## Check out the [Demo](https://agency-context.netlify.app/)
 
   <br>
 
@@ -32,7 +32,7 @@ Website about some local Azerbaijani Agency
 2. Navigate to the project folder
 
    ```sh
-   cd agency-context-master
+   cd agency-context
    ```
 
 3. Install dependencies
