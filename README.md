@@ -1,4 +1,4 @@
-# Agency site
+# Agency Demo Website
 
 Website about some local Azerbaijani Agency
 - You can reach out to portfloio and process of the agency
@@ -10,7 +10,7 @@ Website about some local Azerbaijani Agency
 
 ## Home Page
 
-![Agency](https://faridalz.github.io/personal/static/media/landing.85850624.png)
+![Agency](https://raw.githubusercontent.com/faridalz/agency-context/master/src/images/landing.85850624.png)
 
 <br>
 
